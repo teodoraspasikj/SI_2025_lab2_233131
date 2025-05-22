@@ -26,3 +26,5 @@ C0 - test case-ови
 Multiple Condition за if (item.getPrice() > 300 || item.getDiscount() > 0 || item.getQuantity() > 10)
 
 За следниот услов во кој што има логички оператор OR, во сите три случаи ќе биде TRUE освен во едниот случај каде што ќе биде FALSE
+![kod](images/kod.png)
+
