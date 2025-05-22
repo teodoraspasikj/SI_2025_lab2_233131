@@ -20,3 +20,8 @@ C0 - test case-ови
 Теst case 4 - Немаат важност условот if(...), и discount = 0
 
 Теst case 5 - cardNumber има карактер (а треба број), "Invalid"
+
+![Multiple](images/Multiple.png)
+Multiple Condition за if (item.getPrice() > 300 || item.getDiscount() > 0 || item.getQuantity() > 10)
+
+За следниот услов во кој што има логички оператор OR, во сите три случаи ќе биде TRUE освен во едниот случај каде што ќе биде FALSE
